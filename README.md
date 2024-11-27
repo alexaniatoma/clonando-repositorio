@@ -1,9 +1,11 @@
-# clonando-repositorio
+## Este repositorio tem o proposito treinar os comandos do git no repositório local e no repositório remoto (git push / git pull)
 
-# alterando do repositorio local.
+##### clonando-repositório
 
-# alterando do respositorio remoto.
+##### alterando do repositório local.
 
-# alterando do repositorio local para o repositorio remoto v2.
+##### alterando do respositório remoto.
 
-# alterando do repositorio local para o repositorio remoto v3.
+##### alterando do repositório local para o repositório remoto v2.
+
+##### alterando do repositório local para o repositório remoto v3.
